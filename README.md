@@ -103,7 +103,7 @@ Jupyter Notebook
 
 ## Files
 
-credit_risk_analysis.ipynb – full exploratory data analysis and visualization notebook
+credit_risk_analysis.ipynb - full exploratory data analysis and visualization notebook
 
 ---
 
