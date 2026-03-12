@@ -17,17 +17,17 @@ https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset
 
 Key variables include:
 
-* loan_amnt – loan amount requested
-* funded_amnt – funded loan amount
-* term – loan duration (36 or 60 months)
-* int_rate – interest rate
-* grade – loan grade assigned by the lender
-* annual_inc – borrower annual income
-* dti – debt-to-income ratio
-* revol_util – revolving credit utilization
-* open_acc – number of open credit lines
-* total_acc – total number of credit accounts
-* loan_status – loan outcome
+* loan_amnt - loan amount requested
+* funded_amnt - funded loan amount
+* term - loan duration (36 or 60 months)
+* int_rate - interest rate
+* grade - loan grade assigned by the lender
+* annual_inc - borrower annual income
+* dti - debt-to-income ratio
+* revol_util - revolving credit utilization
+* open_acc - number of open credit lines
+* total_acc - total number of credit accounts
+* loan_status - loan outcome
 
 ---
 
@@ -51,8 +51,8 @@ Several columns required transformation before analysis:
 
 A binary variable **default_flag** was created:
 
-* 1 → Charged Off / Default
-* 0 → Fully Paid
+* 1 -> Charged Off / Default
+* 0 -> Fully Paid
 
 Other loan statuses were excluded to simplify the analysis.
 
